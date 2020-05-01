@@ -1,4 +1,6 @@
-# financeprojvue
+# Stock Search
+
+A web app that retrieves and graphs stock info. Developed with Vue, Vuex, Bootstrap, Yahoo Finance API, and AWS DynamoDB.
 
 ## Project setup
 ```
